@@ -1,0 +1,1 @@
+{"description":"Gobble Dash — a turkey escapes Thanksgiving: farmyard, barn, kitchen. Canvas 2D, no build step, no network.","name":"gobble-dash-turkey-escape","private":true,"scripts":{"shot":"node scripts/take-shots.mjs","start":"node serve.ts"},"type":"module","version":"1.0.0"}
